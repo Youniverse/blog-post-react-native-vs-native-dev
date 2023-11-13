@@ -1,0 +1,16 @@
+PODS:
+  - ABGaugeViewKit (1.0.1)
+
+DEPENDENCIES:
+  - ABGaugeViewKit
+
+SPEC REPOS:
+  trunk:
+    - ABGaugeViewKit
+
+SPEC CHECKSUMS:
+  ABGaugeViewKit: b69c855c2878e5ba49605b0662d409c1577ed198
+
+PODFILE CHECKSUM: 70eba44682b9e20f690de61466143ca9cd6c3e7a
+
+COCOAPODS: 1.12.1
